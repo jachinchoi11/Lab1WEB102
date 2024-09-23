@@ -31,7 +31,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with ... KAP
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -42,9 +42,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+I had challenges trying to use the props at first, but I was able to figure that out. I also had
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Jachin Choi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
